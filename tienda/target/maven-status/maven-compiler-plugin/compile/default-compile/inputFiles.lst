@@ -1,0 +1,9 @@
+/home/rid/UNIVERSIDAD(salvable)/TESIS/tienda/src/main/java/com/tesis/tienda/producto/repository/ProductoRepository.java
+/home/rid/UNIVERSIDAD(salvable)/TESIS/tienda/src/main/java/com/tesis/tienda/producto/entity/Producto.java
+/home/rid/UNIVERSIDAD(salvable)/TESIS/tienda/src/main/java/com/tesis/tienda/producto/controller/ProductoController.java
+/home/rid/UNIVERSIDAD(salvable)/TESIS/tienda/src/main/java/com/tesis/tienda/usuario/service/UsuarioService.java
+/home/rid/UNIVERSIDAD(salvable)/TESIS/tienda/src/main/java/com/tesis/tienda/producto/service/ProductoService.java
+/home/rid/UNIVERSIDAD(salvable)/TESIS/tienda/src/main/java/com/tesis/tienda/usuario/controller/UsuarioController.java
+/home/rid/UNIVERSIDAD(salvable)/TESIS/tienda/src/main/java/com/tesis/tienda/usuario/repository/UsuarioRepository.java
+/home/rid/UNIVERSIDAD(salvable)/TESIS/tienda/src/main/java/com/tesis/tienda/TiendaApplication.java
+/home/rid/UNIVERSIDAD(salvable)/TESIS/tienda/src/main/java/com/tesis/tienda/usuario/entity/Usuario.java
